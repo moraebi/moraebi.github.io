@@ -6,7 +6,16 @@ description: "description"
 premalink: /
 ---
 
-#Menu2{: .no_toc }
+#Menu2
+{: .no_toc }
 
 Menu2 Test
 {: .fs-6 .fw-300 }
+
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+```
