@@ -19,4 +19,4 @@ Github Description
 이제 하나씩 만들어보면서, 시험해봐야하는 blog입니다.
 {:, .highlight}
 결과적으로 아래의 사이트의 도움으로 remote로 설치했음. 
-https://100sang.net/292
+[https://100sang.net/292](https://100sang.net/292){: .btn}
