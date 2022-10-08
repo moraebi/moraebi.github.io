@@ -16,3 +16,5 @@ Github Description
 ---
 
 ## Getting started
+이제 하나씩 만들어보면서, 시험해봐야하는 blog입니다.
+{:, .highlight}
