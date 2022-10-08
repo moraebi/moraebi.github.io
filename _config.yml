@@ -4,8 +4,8 @@ remote_theme: just-the-docs/just-the-docs
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Docs
-description: A Jekyll theme for documentation
+title: MoraeBi Technical Blog
+description: 기술적인 내용을 정리하기 위한 블로그를 만들고 있음.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://moraebi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
