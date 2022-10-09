@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rust
-parent: Menu3
+parent: Languges
 nav_order: 1
 ---
 
