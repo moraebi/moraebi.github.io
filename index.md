@@ -20,4 +20,5 @@ Github Description
 {:, .highlight}
 결과적으로 아래의 사이트의 도움으로 remote로 설치했음. 
 
-[https://100sang.net/292](https://100sang.net/292){: .btn}
+[https://100sang.net/292](https://100sang.net/292)
+{: .d-none .d-md-inline-block }
