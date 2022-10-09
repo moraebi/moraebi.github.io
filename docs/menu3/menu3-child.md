@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Child1
+title: Rust
 parent: Menu3
 nav_order: 1
 ---

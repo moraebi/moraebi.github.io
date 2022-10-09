@@ -1,16 +1,18 @@
 ---
 layout: default
-title: Menu2
+title: Memo
 nav_order: 2
-description: "description"
+description: "간단한 메모들을 정리해보자"
 premalink: /
 ---
 
-#Menu2
-{: .no_toc }
+# 배우고 싶은 목록들
+- [ ] Embedded rust
+- [ ] python 최적화
 
-Menu2 Test
-{: .fs-6 .fw-300 }
+# 만들고 싶은 Project
+- [ ] OBD Toys
+- [ ] 갤럭시 워치용 앱
 
 ```mermaid
 graph TD;

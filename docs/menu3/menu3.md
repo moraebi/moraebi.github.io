@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Menu3
+title: Languges
 nav_order: 3
 has_children: true
 premalink: /docs/menu3
