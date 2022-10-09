@@ -6,10 +6,10 @@ description: "description"
 premalink: /
 ---
 
-#Welcome to moraebi dev blog
+# Welcome to moraebi dev blog
 {:, fs-8}
 
-Github Description
+기술적으로 학습한 것들을 하나씩 정리해보는 사이트
 {: .fs-6 .fw-300 }
 
 [Get started new](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
