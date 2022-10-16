@@ -3,7 +3,7 @@ layout: default
 title: Memo
 nav_order: 2
 description: "간단한 메모들을 정리해보자"
-premalink: /
+premalink: /docs/memo
 ---
 
 # 배우고 싶은 목록들
