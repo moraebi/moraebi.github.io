@@ -21,4 +21,4 @@ premalink: /
 [https://100sang.net/292](https://100sang.net/292)
 {: .d-none .d-md-inline-block }
 ---
-![test image](/icons/icon.png)
+[comments]: # ![test image](/icons/icon.png)
